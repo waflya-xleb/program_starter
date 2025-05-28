@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/program_2.dir/program_test/program_2.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

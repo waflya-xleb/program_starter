@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/program_2.dir/program_test/program_2.cpp.o: dyndep
+

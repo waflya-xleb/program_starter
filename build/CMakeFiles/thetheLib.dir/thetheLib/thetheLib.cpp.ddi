@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/thetheLib.dir/thetheLib/thetheLib.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
